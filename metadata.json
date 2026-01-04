@@ -1,0 +1,5 @@
+{
+  "name": "BabyLog (宝宝喂养)",
+  "description": "智能宝宝喂养记录应用，支持母乳与配方奶记录、历史回顾、图表分析及AI智能建议。",
+  "requestFramePermissions": []
+}
